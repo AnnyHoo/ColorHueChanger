@@ -1,0 +1,11 @@
+C:\Users\Anny\source\repos\ShirtColorChange\ShirtColorChange\bin\Debug\ShirtColorChange.exe.config
+C:\Users\Anny\source\repos\ShirtColorChange\ShirtColorChange\bin\Debug\ShirtColorChange.exe
+C:\Users\Anny\source\repos\ShirtColorChange\ShirtColorChange\bin\Debug\ShirtColorChange.pdb
+C:\Users\Anny\source\repos\ShirtColorChange\ShirtColorChange\obj\Debug\ShirtColorChange.csproj.AssemblyReference.cache
+C:\Users\Anny\source\repos\ShirtColorChange\ShirtColorChange\obj\Debug\ShirtColorChange.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anny\source\repos\ShirtColorChange\ShirtColorChange\obj\Debug\ShirtColorChange.Form1.resources
+C:\Users\Anny\source\repos\ShirtColorChange\ShirtColorChange\obj\Debug\ShirtColorChange.Properties.Resources.resources
+C:\Users\Anny\source\repos\ShirtColorChange\ShirtColorChange\obj\Debug\ShirtColorChange.csproj.GenerateResource.cache
+C:\Users\Anny\source\repos\ShirtColorChange\ShirtColorChange\obj\Debug\ShirtColorChange.csproj.CoreCompileInputs.cache
+C:\Users\Anny\source\repos\ShirtColorChange\ShirtColorChange\obj\Debug\ShirtColorChange.exe
+C:\Users\Anny\source\repos\ShirtColorChange\ShirtColorChange\obj\Debug\ShirtColorChange.pdb
